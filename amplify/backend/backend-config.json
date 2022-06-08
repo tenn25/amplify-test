@@ -1,6 +1,6 @@
 {
   "auth": {
-    "boyaki7bde466d": {
+    "boyakib0e5ca17": {
       "service": "Cognito",
       "providerPlugin": "awscloudformation",
       "dependsOn": [],
