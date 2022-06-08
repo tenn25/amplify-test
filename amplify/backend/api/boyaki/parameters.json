@@ -1,0 +1,11 @@
+{
+  "AppSyncApiName": "boyaki",
+  "DynamoDBBillingMode": "PAY_PER_REQUEST",
+  "DynamoDBEnableServerSideEncryption": false,
+  "AuthCognitoUserPoolId": {
+    "Fn::GetAtt": [
+      "authboyakib0e5ca17",
+      "Outputs.UserPoolId"
+    ]
+  }
+}
