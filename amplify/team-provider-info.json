@@ -24,7 +24,7 @@
       "function": {
         "createPostAndTimeline": {
           "deploymentBucketName": "amplify-boyaki-production-20703-deployment",
-          "s3Key": "amplify-builds/createPostAndTimeline-6a31723339754a6b7a55-build.zip"
+          "s3Key": "amplify-builds/createPostAndTimeline-764b6e66477077514336-build.zip"
         }
       }
     }
