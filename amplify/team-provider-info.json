@@ -15,12 +15,6 @@
       "auth": {
         "boyakib0e5ca17": {}
       },
-      "hosting": {
-        "amplifyhosting": {
-          "appId": "d2h2mr78f17lqf",
-          "type": "manual"
-        }
-      },
       "function": {
         "createPostAndTimeline": {
           "deploymentBucketName": "amplify-boyaki-production-20703-deployment",
